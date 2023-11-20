@@ -3,7 +3,7 @@ title: "2022 - ryanhorricks.com"
 slug: "ryan-horricks-2022"
 description: "Last year's version, built using Gatsby by someone who'd yet to discover the joys of living for himself, instead of others."
 date: "2022-09-11"
-image: home.png
+image: main.png
 
 categories:
     - "React"

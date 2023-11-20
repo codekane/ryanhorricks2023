@@ -3,7 +3,7 @@ title: "eMotors Direct"
 description: "Motiometer - IoT Sensor Project"
 slug: "emotors-direct"
 date: "2023-05-15 00:00:00-0700"
-image: web-dashboard.png
+image: main.png
 categories:
     - React
     - PHP

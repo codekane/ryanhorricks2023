@@ -3,7 +3,7 @@ title: "Blood Level"
 slug: "blood-level"
 description: "Electron/Django App that estimates the plasma concentration of a drug, given an accurate dose history, and pharmacokinetic data."
 date: "2022-11-22"
-image: graph.png
+image: main.png
 
 categories:
     - "Python"

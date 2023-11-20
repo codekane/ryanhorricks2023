@@ -7,18 +7,51 @@
 #icon = "home"
 #newtab = true
 
+[[main]]
+identifier = "about"
+name = "About"
+url = "/about"
+
+[main.params]
+icon = "user"
+
+[[social]]
+identifier = "facebook"
+name = "Facebook"
+url = "https://www.facebook.com/ryan.horricks/"
+
+[social.params]
+icon = "brand-facebook"
+
+[[social]]
+identifier = "instagram"
+name = "Instagram"
+url = "https://instagram.com/jesus_basically"
+
+[social.params]
+icon = "brand-instagram"
+
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://linkedin.com/in/rhorricks"
+
+[social.params]
+icon = "brand-linkedin"
+
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://github.com/codekane"
 
 [social.params]
 icon = "brand-github"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "lit"
+name = "Lit"
+url = "https://getlit.art"
 
 [social.params]
-icon = "brand-twitter"
+icon = "icon-heart"
+

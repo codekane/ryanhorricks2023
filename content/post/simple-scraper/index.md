@@ -11,6 +11,7 @@ categories:
 tags:
     - "Ruby"
 
+draft: true
 weight: 1
 ---
 

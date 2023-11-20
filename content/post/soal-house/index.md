@@ -3,7 +3,7 @@ title: "SOAL House - Shepards of Abundant Living "
 slug: "soal-house"
 description: "Volunteer work for the house I living at, featuring an online storefront, admin panel, room bookings, and artist profiles."
 date: "2019-07-11"
-image: home.png
+image: main.png
 
 categories:
     - "e-Commerce"
@@ -24,12 +24,12 @@ weight: 1
 [Live URL](https://www.soalhouse.ca)
 [Github](https://github.com/codekane/soalhouse)
 
-![Home](home.png)
-![Art Listing](art-listing.png)
-![Artists](artists.png)
-![Artisan Profile](artisan-profile.png)
-![Accomodations](accomodations.png)
-![About](about.png)
+![Artwork](artwork.png)![Art Listing](art-listing.png)
+
+![Artists](artists.png)![Artisan Profile](artisan-profile.png)
+
+![Home](home.png)![About](about.png)![Accomodations](accomodations.png)
+
 ![Admin](admin.png)
 
 This is another whole chapter in my life. I moved into the SOAL House on

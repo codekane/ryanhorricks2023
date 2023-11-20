@@ -21,5 +21,4 @@ tags:
 weight: 1
 ---
 
-![Lookup](lookup.png)
-![Found](found.png)
+![Mystery](mystery.png)![Found](found.png)

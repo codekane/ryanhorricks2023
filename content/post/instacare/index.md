@@ -3,23 +3,23 @@ title: "InstaCare"
 slug: "instacare"
 description: "My work as a System Analyst with the MARA Group, helping to bring a SAAS Product to launch in the Digital Health space."
 date: "2021-12-14"
-image: home.png
+image: main.png
 
 categories:
-    - "Product"
-    - "Design"
-    - "Startup"
-    - "Front-End"
-    - "QA"
-    - "Technical Writing"
-
-tags:
     - "Figma"
     - "WebFlow"
+    - "HTML"
     - "CSS"
     - "JavaScript"
     - "Jira"
-    - "Testing"
+    - "QA"
+
+tags:
+    - "Jira"
+    - "Startup"
+    - "Product"
+    - "Front-End"
+    - "SAAS"
 
 weight: 1
 ---

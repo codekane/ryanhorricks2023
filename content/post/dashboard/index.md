@@ -3,30 +3,19 @@ title: "Dashboard"
 slug: "dashboard"
 description: "A Virtual Kanban Board, emulating the subtle details of a physical board that I made."
 date: "2021-08-31"
-image: default.png
+image: main.png
 
 categories:
-    - "Personal"
-    - "Portfolio"
-    - "Product"
-    - "Design"
-    - "Front-End"
-
-tags:
-    - "Sketch"
-    - "React"
-    - "Redux"
     - "HTML"
     - "CSS"
     - "JavaScript"
-images:
-  - original: "./Portfolio Images/dashboard-default.png"
-  - original: "./Portfolio Images/dashboard-complete.png"
-  - original: "./Portfolio Images/dashboard-discard.png"
-  - original: "./Portfolio Images/dashboard-edit.png"
-  - original: "./Portfolio Images/dashboard-edit-view.png"
-  - original: "./Portfolio Images/dashboard-create.png"
-  - original: "./Portfolio Images/dashboard-finish.png"
+    - "React"
+    - "Redux"
+    - "Sketch"
+
+tags:
+    - "Product"
+    - "Front-End"
 
 weight: 1
 ---

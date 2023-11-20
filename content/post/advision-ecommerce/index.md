@@ -1,9 +1,9 @@
 ---
 title: "Advision E-Commerce"
 slug: "advision-ecommerce"
-description: "Intermediate Front-End Development using Lightspeed POS."
+description: "Front-End Development using the Lightspeed POS Platform."
 date: "2022-08-22"
-image: logo.png
+image: main.png
 
 categories:
     - "HTML"
@@ -13,9 +13,10 @@ categories:
     - "jQuery"
 
 tags:
-    - "HTML"
-    - "CSS"
+    - "E-Commerce"
+    - "Front-End"
     - "JavaScript"
 
 weight: 1
 ---
+![Escapist](escapist-filters.png)![Melanie X](melanie-x.png)![Price Rite](price-rite.png)![Rise Smoke Shop](rise-smoke-shop.png)![Sports Aux Puces](sports-aux-puces.png)

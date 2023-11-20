@@ -3,18 +3,20 @@ title: "Sunrise International"
 description: "Front-End Development for an artist who inherited her father's empire."
 slug: "sunrise-international"
 date: "2021-12-03"
-image: home.png
+image: main.png
 
 categories:
-    - Front-End
+    - "HTML"
+    - "CSS"
+    - "C#"
+    - "ASP.net WebForms"
+    - "JavaScript"
+    - "jQuery"
+    - "WordPress"
 
 tags:
-    - HTML
-    - CSS
-    - C#
-    - jQuery
-    - ASP.net WebForms
-    - WordPress
+    - "Front-End"
+    - "Hospitality"
 
 weight: 1
 ---

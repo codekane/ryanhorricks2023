@@ -2,8 +2,8 @@
 title: "2021 - ryanhorricks.com"
 slug: "ryan-horricks-2021"
 description: "Made with WordPress, hosting several experiments, and my first professional photo."
-date: "2020-11-30"
-image: v1.png
+date: "2021-02-15"
+image: main.png
 
 categories:
     - "HTML"
@@ -11,9 +11,9 @@ categories:
     - "WordPress"
 
 tags:
-    - "HTML"
-    - "CSS"
-    - "WordPress"
+    - "Front-End"
+    - "Portfolio"
 
 weight: 1
 ---
+![Home](home.png)![Portfolio List](portfolio.png)![Portfolio Single](portfolio-single.png)![Comment](portfolio-single-comment.png)

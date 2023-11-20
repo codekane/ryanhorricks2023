@@ -3,7 +3,7 @@ title: "ISBN Lookup"
 slug: "isbn-lookup"
 description: "Used to populate the ill-fated Library feature, found in the 2021 version of this site."
 date: "2021-01-15"
-image: found.png
+image: main.png
 
 categories:
     - "HTML"

@@ -108,6 +108,7 @@ Syntax	content/post/image-gallery/index.md	/^## Syntax$/;"	s
 Tables	content/post/markdown-syntax/index.md	/^## Tables$/;"	s	chapter:H1
 Target	resources/_gen/assets/scss/scss/style.scss_511aa33e99371f93fbf403479ebfd32e.json	/^{"Target":"scss\/style.min.abbd69b2908fdfcd5179898beaafd374514a86538d81639ddd2c58c06ae54e40.css"/;"	s
 Tencent video	content/post/shortcodes/index.md	/^## Tencent video$/;"	s
+This is what happens when you actually take the time, to make something good.	content/post/ryan-horricks-2022/index.md	/^## This is what happens when you actually take the time, to make something good.$/;"	s
 Unordered List	content/post/markdown-syntax/index.md	/^### Unordered List$/;"	S	section:H1""List Types
 Update theme manually	README.md	/^## Update theme manually$/;"	s	chapter:Hugo Theme Stack Starter Template
 YouTube video	content/post/shortcodes/index.md	/^## YouTube video$/;"	s

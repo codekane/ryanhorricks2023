@@ -2,7 +2,7 @@
 title: "SOAL House - Shepards of Abundant Living "
 slug: "soal-house"
 description: "Volunteer work for the house I living at, featuring an online storefront, admin panel, room bookings, and artist profiles."
-date: "2019-04-01"
+date: "2019-07-11"
 image: home.png
 
 categories:

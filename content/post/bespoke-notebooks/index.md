@@ -3,7 +3,7 @@ title: "SpokeBooks - Bespoke Notebooks"
 slug: "spokebooks"
 description: "A line of notebooks made out of metal wire, upcycled vinyl flooring, and the golden ratio."
 date: "2020-01-30"
-image: dontpanic.png
+image: main.jpg
 
 categories:
     - Manufacturing
@@ -21,6 +21,23 @@ tags:
 
 weight: 1
 ---
+
+![BEAUTIFUL](BEAUTIFUL.jpg)
+
+![Do Not Panic](do-not-panic.jpg)![Black Limestone](black-limestone.jpg)![Blue Blue](blue-blue.jpg)
+![Blue Cream](blue-cream.jpg)![Burgundy Cream](burgundy-cream.jpg)![Burgundy Mist](burgundy-mist.jpg)
+![Colonial Blue](colonial-blue.jpg)![Don't Panic!](dontpanic.png)
+
+![Don't Paniccccccc](dontpanicccc.jpg)
+
+![Green Green](green-green.jpg)![Green Hue](green-hue.jpg)![Green Limestone](green-limestone.jpg)
+![Green Tan](green-tan.jpg)![Grey Orange](grey-orange.jpg)![Grey White](grey-white.jpg)
+
+![Ensemble](original-evolved-sketchy-guy.png)
+
+![Original](original-shopify.png)![Original 2](original-shopify-2.png)
+
+![Pink Cream](pink-cream.jpg)![Purple Limestone](purple-limestone)![Silver River Rock](silver-river-rock.jpg)![Yellow Cream](yellow-cream.jpg)
 
 The question to build the perfect notebook.
 
@@ -56,3 +73,5 @@ right now, and I think I might like to have that feature back in my life.
 
 So, there's the story. I'd like to perhaps revise this, add pictures, etc, and I
 can do that. But for now, there you are.
+
+![Draw a Card!](spokebooks-cardd.jpg)

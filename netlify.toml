@@ -1,24 +1,25 @@
 [build]
   publish  = "ryanhorricks2023/public"
+  command = "hugo --gcc --minify"
 
-[build.environment]
-  HUGO_VERSION = "0.120.3"
-  HUGO_THEME = "repo"
+  [build.environment]
+    HUGO_VERSION = "0.120.3"
 
-[context.production]
-  command = "cd ryanhorricks2023 && hugo --gc --themesDir ../.. -b ${URL}"
-  [context.production.environment]
+[context.production.environment]
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
+
+[context.split1]
+  command = "hugo --gc --minify --enableGitInfo"
+
+  [context.split1.environment]
     HUGO_ENV = "production"
 
-[context.branch-deploy]
-  command = "cd ryanhorricks2023 && hugoo --gc --themesDir ../.. -b ${DEPLOY_PRIME_URL}"
-
 [context.deploy_preview]
-  command = "cd ryanhorricks2023 && hugo --gc --themesDir ../.. -b ${DEPLOY_PRIME_URL}"
+  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
-[[plugins]]
-  package = "netlify-plugin-hugo-cache-resources"
+[context.branch-deploy]
+  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
-  [plugins.inputs]
-    debug = true
-    srcdir = "ryanhorricks2023"
+[context.next.environment]
+  HUGO_ENABLEGITINFO = "true"

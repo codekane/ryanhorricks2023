@@ -19,13 +19,11 @@ tags:
 
 weight: 1
 ---
-![Default](default.png)
-![Complete](complete.png)
-![Discard](discard.png)
-![Edit](edit.png)
-![Edit View](edit-view.png)
-![Create](create.png)
-![Finish](finish.png)
+![Default](default.png)![Complete](complete.png)![Discard](discard.png)
+![Edit](edit.png)![Edit View](edit-view.png)![Create](create.png)![Finish](finish.png)
+
+
+![This One is Best!](triple-dash-svelte.png)
 
 Now, why I made this is a little bit funny, and a little bit sad. I had applied
 to a company called C.B.S. - Convenient Business Solutions. Wrote them a

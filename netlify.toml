@@ -4,10 +4,13 @@
 
   [build.environment]
     HUGO_VERSION = "0.120.3"
+    HUGO_THEME = "hugo-theme-stack"
 
-[context.production.environment]
-  HUGO_ENV = "production"
-  HUGO_ENABLEGITINFO = "true"
+[context.production]
+  command = "hugo --gc -b ${URL}"
+  [context.production.environment]
+    HUGO_ENV = "production"
+    HUGO_ENABLEGITINFO = "true"
 
 [context.split1]
   command = "hugo --gc --minify --enableGitInfo"
@@ -19,10 +22,13 @@
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy]
-  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+  command = "hugo --gc -b $DEPLOY_PRIME_URL"
 
 [context.next.environment]
   HUGO_ENABLEGITINFO = "true"
 
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
+
+  [plugins.inputs]
+    debug = true

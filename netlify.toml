@@ -1,5 +1,5 @@
 [build]
-  publish  = "ryanhorricks2023/public"
+  publish  = "public"
   command = "hugo"
 
   [build.environment]

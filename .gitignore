@@ -2,3 +2,6 @@ public
 resources
 tags
 
+
+# Local Netlify folder
+.netlify

@@ -8,7 +8,7 @@ image: main.png
 categories:
     - "HTML"
     - "CSS"
-    - "C#"
+    - "C-sharp"
     - "ASP.net WebForms"
     - "JavaScript"
     - "jQuery"

@@ -3,7 +3,7 @@ title: "Fancy55"
 slug: "fancy-55"
 description: "Nixie Letters, Numbers, and the case of the overambitious logo."
 date: "2019-03-01"
-image: fancy55.png
+image: main.png
 
 categories:
     - "Front-End"
@@ -17,6 +17,9 @@ weight: 1
 ---
 [Live Site](https://fancy55.netlify.app/)
 [GitHub](https://github.com/codekane/Fancy55)
+
+![Say Something!](say-something-huge.png)
+
 None of that actually happened, but there were a lot of ideas. Originally,
 fancy55 was supposed to be something much different, much grander. It related to
 many of my other projects, with the aim being to better/improve the experience

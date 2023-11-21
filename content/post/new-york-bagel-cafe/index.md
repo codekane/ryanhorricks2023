@@ -3,7 +3,7 @@ title: "New York Bagel Cafe"
 slug: "new-york-bagel-cafe"
 description: "Online information and menu for a restaurant I worked at."
 date: "2019-05-07"
-image: logo.png
+image: breakfast.png
 
 categories:
     - "HTML"
@@ -19,3 +19,7 @@ tags:
 
 weight: 1
 ---
+
+![Breakfast!](breakfast.png)
+
+![Logo](logo.png)![Titled Logo](titled-logo.png)
